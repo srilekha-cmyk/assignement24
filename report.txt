@@ -1,0 +1,6 @@
+I created three patterns using nested loops:
+1. Square Pattern
+2. Right-Angled Triangle Pattern
+3. Pyramid Pattern
+
+I used nested loops to print rows and columns. I tested the program with different input sizes, and all patterns were generated correctly.
